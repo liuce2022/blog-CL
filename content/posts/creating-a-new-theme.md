@@ -20,7 +20,7 @@ weight: 10
 # 结果
 和chenrz发消息，然后被ta推下山了。
 就像这样：
-![被推下山](D:/R语言笔记/blog-CL/static/tuixiashan.PNG)
+![被推下山](blog-CL/static/tuixiashan.png)
 
 ~~欺负俺~~（But! 要怎么让chenrz消消气呢？）
 
