@@ -4,20 +4,23 @@ aliases:
 - about-hugo
 - contact
 author:
-  name: Hugo Authors
-date: "2014-04-09"
-title: About
+  name: 刘策
+date: "2022-11-10"
+title: 关于
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+这是一个简简单单的博客，记录平凡人的平凡事。一点收获，一点快乐，以及生活中的波澜。
+记录和chenrz的点点滴滴。
 
-It makes use of a variety of open source projects including:
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+
+**你我皆凡人，**
+
+**生在人世间，**
+
+**终日奔波苦，**
+
+**一刻不得闲。**
 
