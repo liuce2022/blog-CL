@@ -21,7 +21,7 @@ Permalinks:
 menu:
   main:
     - name: 博客
-      url: /posts/
+      url: /Posts/
       weight: 1
     - name: 分类
       url: /Categories/
@@ -30,7 +30,7 @@ menu:
       url: /about
       weight: 4
 params:
-  author: Fastbyte01
+  author: 刘策
   avatar: /images/me/dog.jpeg
   baidu_verification: ''
   bing_verification: ''
