@@ -31,7 +31,7 @@ menu:
       weight: 4
 params:
   author: 刘策
-  avatar: /images/me/dog.jpeg
+  avatar: /images/me/shadow.jpg
   baidu_verification: ''
   bing_verification: ''
   cdn_url: ''

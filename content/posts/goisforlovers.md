@@ -1,6 +1,6 @@
 ---
 author:
-  name: Hugo Authors
+  name: 刘策
 categories:
 - Development
 - golang
