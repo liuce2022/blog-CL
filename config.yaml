@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://liuc-chenrz.netlify.app/
 languageCode: en
 defaultContentLanguage: en
 title: 生活中的一些小事
@@ -60,13 +60,13 @@ params:
   logo:
     height: 40
     url: logo.png
-    width: 127
+    width: 40
   pinterest_verification: ''
   publisher:
     logo:
       height: 40
       url: logo.png
-      width: 127
+      width: 40
     name: Fastbyte01
   share:
     Facebook: yes
